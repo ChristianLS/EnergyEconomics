@@ -1,0 +1,773 @@
+
+<html>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<td colspan="4">Wind power DK in MWh</td>
+				</tr><tr>
+					<td colspan="4">Data was last updated 01-01-2019</td>
+				</tr><tr>
+					<td></td><td style="text-align:left;">Hours</td><td style="text-align:center;">DK1</td><td style="text-align:center;">DK2</td>
+				</tr>
+			</thead><tbody>
+				<tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1729</td><td style="text-align:right;">649</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1763</td><td style="text-align:right;">613</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1508</td><td style="text-align:right;">663</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1514</td><td style="text-align:right;">723</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1523</td><td style="text-align:right;">713</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1493</td><td style="text-align:right;">703</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1578</td><td style="text-align:right;">727</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1529</td><td style="text-align:right;">753</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1651</td><td style="text-align:right;">758</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1839</td><td style="text-align:right;">758</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">2208</td><td style="text-align:right;">771</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">2248</td><td style="text-align:right;">774</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">2344</td><td style="text-align:right;">773</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">2590</td><td style="text-align:right;">780</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">2514</td><td style="text-align:right;">777</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">2340</td><td style="text-align:right;">755</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">2053</td><td style="text-align:right;">741</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">1855</td><td style="text-align:right;">694</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">1751</td><td style="text-align:right;">651</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">1739</td><td style="text-align:right;">632</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">1721</td><td style="text-align:right;">603</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">1745</td><td style="text-align:right;">592</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">1601</td><td style="text-align:right;">530</td>
+				</tr><tr>
+					<td style="text-align:left;">01-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1549</td><td style="text-align:right;">460</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1468</td><td style="text-align:right;">434</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1406</td><td style="text-align:right;">391</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1343</td><td style="text-align:right;">308</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1227</td><td style="text-align:right;">235</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1206</td><td style="text-align:right;">192</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1106</td><td style="text-align:right;">173</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1096</td><td style="text-align:right;">185</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1160</td><td style="text-align:right;">204</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1120</td><td style="text-align:right;">202</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1043</td><td style="text-align:right;">213</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">977</td><td style="text-align:right;">214</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">842</td><td style="text-align:right;">242</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">757</td><td style="text-align:right;">254</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">804</td><td style="text-align:right;">289</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">787</td><td style="text-align:right;">293</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">771</td><td style="text-align:right;">289</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">854</td><td style="text-align:right;">233</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">939</td><td style="text-align:right;">272</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">1000</td><td style="text-align:right;">311</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">1153</td><td style="text-align:right;">301</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">1236</td><td style="text-align:right;">313</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">1326</td><td style="text-align:right;">331</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">1529</td><td style="text-align:right;">416</td>
+				</tr><tr>
+					<td style="text-align:left;">02-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1795</td><td style="text-align:right;">444</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1970</td><td style="text-align:right;">439</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">2267</td><td style="text-align:right;">532</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">2543</td><td style="text-align:right;">574</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">2411</td><td style="text-align:right;">601</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">2601</td><td style="text-align:right;">667</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">2718</td><td style="text-align:right;">828</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">3077</td><td style="text-align:right;">832</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">2942</td><td style="text-align:right;">828</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">2765</td><td style="text-align:right;">831</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">2446</td><td style="text-align:right;">772</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">1972</td><td style="text-align:right;">689</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">1691</td><td style="text-align:right;">625</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">1352</td><td style="text-align:right;">540</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">980</td><td style="text-align:right;">441</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">750</td><td style="text-align:right;">373</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">465</td><td style="text-align:right;">319</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">289</td><td style="text-align:right;">384</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">262</td><td style="text-align:right;">326</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">280</td><td style="text-align:right;">138</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">306</td><td style="text-align:right;">128</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">398</td><td style="text-align:right;">232</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">559</td><td style="text-align:right;">179</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">720</td><td style="text-align:right;">181</td>
+				</tr><tr>
+					<td style="text-align:left;">03-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">856</td><td style="text-align:right;">119</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">859</td><td style="text-align:right;">132</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">903</td><td style="text-align:right;">175</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">975</td><td style="text-align:right;">382</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1024</td><td style="text-align:right;">545</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1093</td><td style="text-align:right;">578</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1081</td><td style="text-align:right;">535</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">999</td><td style="text-align:right;">520</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">849</td><td style="text-align:right;">511</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">769</td><td style="text-align:right;">518</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">707</td><td style="text-align:right;">529</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">647</td><td style="text-align:right;">468</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">619</td><td style="text-align:right;">401</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">602</td><td style="text-align:right;">317</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">532</td><td style="text-align:right;">297</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">411</td><td style="text-align:right;">241</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">279</td><td style="text-align:right;">214</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">178</td><td style="text-align:right;">182</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">108</td><td style="text-align:right;">123</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">96</td><td style="text-align:right;">124</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">99</td><td style="text-align:right;">116</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">113</td><td style="text-align:right;">110</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">103</td><td style="text-align:right;">127</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">98</td><td style="text-align:right;">150</td>
+				</tr><tr>
+					<td style="text-align:left;">04-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">107</td><td style="text-align:right;">173</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">143</td><td style="text-align:right;">135</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">177</td><td style="text-align:right;">97</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">232</td><td style="text-align:right;">154</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">223</td><td style="text-align:right;">419</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">195</td><td style="text-align:right;">475</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">178</td><td style="text-align:right;">482</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">122</td><td style="text-align:right;">469</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">97</td><td style="text-align:right;">470</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">89</td><td style="text-align:right;">461</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">75</td><td style="text-align:right;">428</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">56</td><td style="text-align:right;">376</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">52</td><td style="text-align:right;">213</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">53</td><td style="text-align:right;">198</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">57</td><td style="text-align:right;">279</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">71</td><td style="text-align:right;">219</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">81</td><td style="text-align:right;">171</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">57</td><td style="text-align:right;">159</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">73</td><td style="text-align:right;">168</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">96</td><td style="text-align:right;">134</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">126</td><td style="text-align:right;">112</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">95</td><td style="text-align:right;">80</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">94</td><td style="text-align:right;">67</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">113</td><td style="text-align:right;">71</td>
+				</tr><tr>
+					<td style="text-align:left;">05-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">69</td><td style="text-align:right;">69</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">38</td><td style="text-align:right;">67</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">49</td><td style="text-align:right;">67</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">62</td><td style="text-align:right;">79</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">58</td><td style="text-align:right;">80</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">74</td><td style="text-align:right;">65</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">80</td><td style="text-align:right;">64</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">94</td><td style="text-align:right;">75</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">123</td><td style="text-align:right;">104</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">134</td><td style="text-align:right;">137</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">161</td><td style="text-align:right;">201</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">270</td><td style="text-align:right;">211</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">480</td><td style="text-align:right;">139</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">518</td><td style="text-align:right;">122</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">550</td><td style="text-align:right;">162</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">637</td><td style="text-align:right;">183</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">667</td><td style="text-align:right;">163</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">737</td><td style="text-align:right;">172</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">849</td><td style="text-align:right;">201</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">919</td><td style="text-align:right;">257</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">828</td><td style="text-align:right;">324</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">716</td><td style="text-align:right;">365</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">616</td><td style="text-align:right;">319</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">532</td><td style="text-align:right;">330</td>
+				</tr><tr>
+					<td style="text-align:left;">06-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">441</td><td style="text-align:right;">310</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">330</td><td style="text-align:right;">267</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">231</td><td style="text-align:right;">223</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">130</td><td style="text-align:right;">209</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">109</td><td style="text-align:right;">223</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">121</td><td style="text-align:right;">206</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">150</td><td style="text-align:right;">159</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">192</td><td style="text-align:right;">117</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">279</td><td style="text-align:right;">93</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">374</td><td style="text-align:right;">87</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">475</td><td style="text-align:right;">91</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">480</td><td style="text-align:right;">106</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">408</td><td style="text-align:right;">81</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">401</td><td style="text-align:right;">68</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">447</td><td style="text-align:right;">63</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">459</td><td style="text-align:right;">66</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">486</td><td style="text-align:right;">72</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">596</td><td style="text-align:right;">79</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">640</td><td style="text-align:right;">80</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">714</td><td style="text-align:right;">77</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">772</td><td style="text-align:right;">84</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">829</td><td style="text-align:right;">78</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">807</td><td style="text-align:right;">82</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">741</td><td style="text-align:right;">78</td>
+				</tr><tr>
+					<td style="text-align:left;">07-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">794</td><td style="text-align:right;">83</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">772</td><td style="text-align:right;">84</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">748</td><td style="text-align:right;">87</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">670</td><td style="text-align:right;">84</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">518</td><td style="text-align:right;">82</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">419</td><td style="text-align:right;">80</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">391</td><td style="text-align:right;">78</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">274</td><td style="text-align:right;">81</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">232</td><td style="text-align:right;">78</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">215</td><td style="text-align:right;">76</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">174</td><td style="text-align:right;">71</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">132</td><td style="text-align:right;">71</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">111</td><td style="text-align:right;">73</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">101</td><td style="text-align:right;">72</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">95</td><td style="text-align:right;">73</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">105</td><td style="text-align:right;">77</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">143</td><td style="text-align:right;">95</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">223</td><td style="text-align:right;">119</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">355</td><td style="text-align:right;">159</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">503</td><td style="text-align:right;">195</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">706</td><td style="text-align:right;">229</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">906</td><td style="text-align:right;">296</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">1147</td><td style="text-align:right;">355</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">1285</td><td style="text-align:right;">355</td>
+				</tr><tr>
+					<td style="text-align:left;">08-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1326</td><td style="text-align:right;">349</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1481</td><td style="text-align:right;">343</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1644</td><td style="text-align:right;">392</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1812</td><td style="text-align:right;">407</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1961</td><td style="text-align:right;">432</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1991</td><td style="text-align:right;">425</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">2126</td><td style="text-align:right;">453</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">2386</td><td style="text-align:right;">472</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">2638</td><td style="text-align:right;">482</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">2736</td><td style="text-align:right;">474</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">2535</td><td style="text-align:right;">584</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">2652</td><td style="text-align:right;">742</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">2705</td><td style="text-align:right;">747</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">2858</td><td style="text-align:right;">746</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">3022</td><td style="text-align:right;">745</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">3005</td><td style="text-align:right;">733</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">2996</td><td style="text-align:right;">729</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">3020</td><td style="text-align:right;">709</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">3029</td><td style="text-align:right;">696</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">2948</td><td style="text-align:right;">676</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">2775</td><td style="text-align:right;">642</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">2452</td><td style="text-align:right;">625</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">2234</td><td style="text-align:right;">572</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">2032</td><td style="text-align:right;">484</td>
+				</tr><tr>
+					<td style="text-align:left;">09-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1959</td><td style="text-align:right;">464</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1914</td><td style="text-align:right;">462</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1858</td><td style="text-align:right;">366</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1740</td><td style="text-align:right;">263</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1569</td><td style="text-align:right;">211</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1414</td><td style="text-align:right;">128</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1264</td><td style="text-align:right;">148</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1210</td><td style="text-align:right;">136</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1126</td><td style="text-align:right;">118</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">992</td><td style="text-align:right;">95</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">923</td><td style="text-align:right;">72</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">847</td><td style="text-align:right;">82</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">816</td><td style="text-align:right;">79</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">769</td><td style="text-align:right;">51</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">720</td><td style="text-align:right;">92</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">639</td><td style="text-align:right;">99</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">719</td><td style="text-align:right;">89</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">834</td><td style="text-align:right;">95</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">964</td><td style="text-align:right;">107</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">823</td><td style="text-align:right;">96</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">611</td><td style="text-align:right;">66</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">656</td><td style="text-align:right;">71</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">620</td><td style="text-align:right;">81</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">583</td><td style="text-align:right;">60</td>
+				</tr><tr>
+					<td style="text-align:left;">10-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">560</td><td style="text-align:right;">45</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">524</td><td style="text-align:right;">37</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">459</td><td style="text-align:right;">37</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">426</td><td style="text-align:right;">44</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">436</td><td style="text-align:right;">68</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">413</td><td style="text-align:right;">68</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">376</td><td style="text-align:right;">68</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">332</td><td style="text-align:right;">44</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">277</td><td style="text-align:right;">40</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">227</td><td style="text-align:right;">34</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">183</td><td style="text-align:right;">35</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">172</td><td style="text-align:right;">49</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">173</td><td style="text-align:right;">87</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">212</td><td style="text-align:right;">125</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">255</td><td style="text-align:right;">186</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">294</td><td style="text-align:right;">204</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">360</td><td style="text-align:right;">180</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">439</td><td style="text-align:right;">189</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">443</td><td style="text-align:right;">221</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">424</td><td style="text-align:right;">213</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">454</td><td style="text-align:right;">271</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">488</td><td style="text-align:right;">233</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">552</td><td style="text-align:right;">272</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">621</td><td style="text-align:right;">291</td>
+				</tr><tr>
+					<td style="text-align:left;">11-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">694</td><td style="text-align:right;">324</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">689</td><td style="text-align:right;">284</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">736</td><td style="text-align:right;">296</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">740</td><td style="text-align:right;">307</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">726</td><td style="text-align:right;">339</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">755</td><td style="text-align:right;">381</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">848</td><td style="text-align:right;">411</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">992</td><td style="text-align:right;">395</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1044</td><td style="text-align:right;">365</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1082</td><td style="text-align:right;">376</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1089</td><td style="text-align:right;">378</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">1050</td><td style="text-align:right;">376</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">1079</td><td style="text-align:right;">458</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">1127</td><td style="text-align:right;">416</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">1175</td><td style="text-align:right;">250</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">1266</td><td style="text-align:right;">210</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">1336</td><td style="text-align:right;">231</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">1372</td><td style="text-align:right;">302</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">1411</td><td style="text-align:right;">310</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">1387</td><td style="text-align:right;">283</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">1300</td><td style="text-align:right;">396</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">1238</td><td style="text-align:right;">377</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">1288</td><td style="text-align:right;">347</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">1268</td><td style="text-align:right;">326</td>
+				</tr><tr>
+					<td style="text-align:left;">12-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1274</td><td style="text-align:right;">304</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1281</td><td style="text-align:right;">288</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1189</td><td style="text-align:right;">279</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1184</td><td style="text-align:right;">275</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1203</td><td style="text-align:right;">330</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1258</td><td style="text-align:right;">344</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1328</td><td style="text-align:right;">362</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1377</td><td style="text-align:right;">420</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1500</td><td style="text-align:right;">394</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1555</td><td style="text-align:right;">411</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1681</td><td style="text-align:right;">400</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">1782</td><td style="text-align:right;">412</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">1821</td><td style="text-align:right;">419</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">1827</td><td style="text-align:right;">385</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">1802</td><td style="text-align:right;">342</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">1716</td><td style="text-align:right;">380</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">1733</td><td style="text-align:right;">411</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">1688</td><td style="text-align:right;">392</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">1687</td><td style="text-align:right;">409</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">1761</td><td style="text-align:right;">460</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">1814</td><td style="text-align:right;">498</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">1850</td><td style="text-align:right;">525</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">1812</td><td style="text-align:right;">510</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">1870</td><td style="text-align:right;">451</td>
+				</tr><tr>
+					<td style="text-align:left;">13-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">1849</td><td style="text-align:right;">378</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">1734</td><td style="text-align:right;">382</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">1565</td><td style="text-align:right;">378</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">1396</td><td style="text-align:right;">376</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">1240</td><td style="text-align:right;">378</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">1159</td><td style="text-align:right;">419</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1175</td><td style="text-align:right;">444</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1322</td><td style="text-align:right;">475</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1501</td><td style="text-align:right;">467</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1523</td><td style="text-align:right;">478</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1489</td><td style="text-align:right;">516</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">1510</td><td style="text-align:right;">539</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">1591</td><td style="text-align:right;">512</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">1604</td><td style="text-align:right;">406</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">1529</td><td style="text-align:right;">361</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">1447</td><td style="text-align:right;">363</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">1315</td><td style="text-align:right;">427</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">1444</td><td style="text-align:right;">465</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">2034</td><td style="text-align:right;">463</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">2445</td><td style="text-align:right;">537</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">2618</td><td style="text-align:right;">555</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">2779</td><td style="text-align:right;">564</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">2843</td><td style="text-align:right;">582</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">2773</td><td style="text-align:right;">611</td>
+				</tr><tr>
+					<td style="text-align:left;">14-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">2726</td><td style="text-align:right;">628</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">2643</td><td style="text-align:right;">638</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">2521</td><td style="text-align:right;">645</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">2591</td><td style="text-align:right;">676</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">2758</td><td style="text-align:right;">679</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">2893</td><td style="text-align:right;">682</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">3002</td><td style="text-align:right;">694</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">3049</td><td style="text-align:right;">729</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">2745</td><td style="text-align:right;">748</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">2827</td><td style="text-align:right;">766</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">2817</td><td style="text-align:right;">769</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">2901</td><td style="text-align:right;">773</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">2964</td><td style="text-align:right;">785</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">3023</td><td style="text-align:right;">790</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">3056</td><td style="text-align:right;">776</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">3132</td><td style="text-align:right;">779</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">3173</td><td style="text-align:right;">787</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">3196</td><td style="text-align:right;">787</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">3212</td><td style="text-align:right;">797</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">3265</td><td style="text-align:right;">804</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align:right;">3344</td><td style="text-align:right;">816</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">20&nbsp;-&nbsp;21</td><td style="text-align:right;">3360</td><td style="text-align:right;">823</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">21&nbsp;-&nbsp;22</td><td style="text-align:right;">3357</td><td style="text-align:right;">828</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">22&nbsp;-&nbsp;23</td><td style="text-align:right;">3298</td><td style="text-align:right;">831</td>
+				</tr><tr>
+					<td style="text-align:left;">15-01-2018</td><td style="text-align:left;">23&nbsp;-&nbsp;00</td><td style="text-align:right;">2826</td><td style="text-align:right;">834</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">00&nbsp;-&nbsp;01</td><td style="text-align:right;">2572</td><td style="text-align:right;">840</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">01&nbsp;-&nbsp;02</td><td style="text-align:right;">2380</td><td style="text-align:right;">838</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">02&nbsp;-&nbsp;03</td><td style="text-align:right;">2507</td><td style="text-align:right;">836</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">03&nbsp;-&nbsp;04</td><td style="text-align:right;">2356</td><td style="text-align:right;">828</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">04&nbsp;-&nbsp;05</td><td style="text-align:right;">2162</td><td style="text-align:right;">783</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">05&nbsp;-&nbsp;06</td><td style="text-align:right;">1943</td><td style="text-align:right;">703</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">06&nbsp;-&nbsp;07</td><td style="text-align:right;">1987</td><td style="text-align:right;">643</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">07&nbsp;-&nbsp;08</td><td style="text-align:right;">1690</td><td style="text-align:right;">590</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">08&nbsp;-&nbsp;09</td><td style="text-align:right;">1542</td><td style="text-align:right;">624</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">09&nbsp;-&nbsp;10</td><td style="text-align:right;">1208</td><td style="text-align:right;">592</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">10&nbsp;-&nbsp;11</td><td style="text-align:right;">1163</td><td style="text-align:right;">510</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">11&nbsp;-&nbsp;12</td><td style="text-align:right;">1108</td><td style="text-align:right;">550</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">12&nbsp;-&nbsp;13</td><td style="text-align:right;">1112</td><td style="text-align:right;">490</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">13&nbsp;-&nbsp;14</td><td style="text-align:right;">895</td><td style="text-align:right;">468</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">14&nbsp;-&nbsp;15</td><td style="text-align:right;">919</td><td style="text-align:right;">470</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">15&nbsp;-&nbsp;16</td><td style="text-align:right;">818</td><td style="text-align:right;">433</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">16&nbsp;-&nbsp;17</td><td style="text-align:right;">663</td><td style="text-align:right;">362</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">17&nbsp;-&nbsp;18</td><td style="text-align:right;">589</td><td style="text-align:right;">423</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">18&nbsp;-&nbsp;19</td><td style="text-align:right;">674</td><td style="text-align:right;">414</td>
+				</tr><tr>
+					<td style="text-align:left;">16-01-2018</td><td style="text-align:left;">19&nbsp;-&nbsp;20</td><td style="text-align
